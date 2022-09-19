@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lisaduplessismix
+- 👋 Hi, I’m Lisa
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
